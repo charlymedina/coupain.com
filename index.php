@@ -1,3 +1,4 @@
 <?php   
-  header('Location: http://www.charlymedina.fr');   
+<!-- Redirection vers mon site perso -->
+  header('Location: http://www.charlymedina.fr');
 ?>
